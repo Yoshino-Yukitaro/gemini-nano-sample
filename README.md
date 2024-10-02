@@ -40,3 +40,7 @@ git clone git@github.com:Yoshino-Yukitaro/gemini-nano-sample.git
 ```
 
 ### index.htmlをchromeで開く(finderで右クリック -> このアプリケーションで開くなど)
+
+### 使用後
+
+`chrome://flags/`の設定を念の為元に戻しましょう。
