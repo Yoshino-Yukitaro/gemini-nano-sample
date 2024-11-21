@@ -15,6 +15,7 @@ gemini nanoを動かしてみた
 
 chromeで`chrome://flags/`にアクセスし、下記の項目の設定変更を行う
 
+| 設定名 | 設定値 |
 | ---- | ---- |
 | Enables optimization guide on device | Enabled BypassPerfRequirement |
 | Prompt API for Gemini Nano | Enabled |
